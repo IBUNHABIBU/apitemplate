@@ -11,7 +11,7 @@
   </a>
 
   <h2 align="center"> RUBY ON RAILS API TEMPLATE </h2>
-  <h3 align="center">T.</h3>
+  <h3 align="center">This is the template to replicate all api projects.</h3>
 
 ## Built with 
 * Ruby on Rails
